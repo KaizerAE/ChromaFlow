@@ -1,0 +1,92 @@
+version: '3.8'
+
+services:
+  # Frontend - React/Next.js Application
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000
+      - NEXT_PUBLIC_AI_URL=http://ai-engine:8001
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+      - ai-engine
+    networks:
+      - chromaflow-network
+
+  # Backend - Node.js API Server
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://chromaflow:chromaflow@postgres:5432/chromaflow
+      - REDIS_URL=redis://redis:6379
+      - JWT_SECRET=your-secret-key-change-in-production
+      - NODE_ENV=development
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - chromaflow-network
+
+  # AI Engine - Python/FastAPI Service
+  ai-engine:
+    build:
+      context: ./ai-engine
+      dockerfile: Dockerfile
+    ports:
+      - "8001:8001"
+    environment:
+      - DATABASE_URL=postgresql://chromaflow:chromaflow@postgres:5432/chromaflow
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./ai-engine:/app
+    depends_on:
+      - postgres
+    networks:
+      - chromaflow-network
+
+  # PostgreSQL Database
+  postgres:
+    image: postgres:15-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=chromaflow
+      - POSTGRES_PASSWORD=chromaflow
+      - POSTGRES_DB=chromaflow
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - chromaflow-network
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - chromaflow-network
+
+volumes:
+  postgres-data:
+  redis-data:
+
+networks:
+  chromaflow-network:
+    driver: bridge
